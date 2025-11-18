@@ -1,0 +1,16 @@
+**/.cache
+**/.vscode
+**/.Xil
+**/.Xilinx
+**/build
+**/proj
+**/*.bkp
+**/*.log
+**/constr/pre
+**/workspace
+**/Debug
+**/pre
+**/archive
+**/archive*
+**/Private
+**/modelsim.ini
